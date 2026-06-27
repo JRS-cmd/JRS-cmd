@@ -1,16 +1,28 @@
-## Hi there 👋
+## 🛡️ Olá, eu sou o João!
 
-<!--
-**JRS-cmd/JRS-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Proissional em transição de carreira focado em **Cibersegurança e Defesa Cibernética (SOC)**. Atualmente, estou a desenvolver a minha base técnica através de laboratórios práticos e a preparar-me para as principais certificações do mercado.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que estou a fazer agora?
+- 🔭 **Projetos Atuais:** Análise de tráfego de rede e segurança em sistemas Linux (Ubuntu).
+- 📚 **A Estudar:** Preparação para a certificação **CompTIA Security+ (SY0-701)** e Certificado do Google.
+- 🛠️ **Ferramentas com que pratico:** Wireshark, Splunk, Linux Terminal, Nmap.
+
+---
+
+### 📁 Os Meus Projetos de Cibersegurança
+*(À medida que fores criando novos repositórios para os teus projetos, coloca os links diretos para eles aqui)*
+
+- 🌐 [Análise de Tráfego de Rede com Wireshark](TEU_LINK_AQUI) -> *Breve descrição do teu primeiro laboratório.*
+- 📊 [Gestão e Análise de Logs com SIEM](TEU_LINK_AQUI) -> *Breve descrição do teu projeto com Splunk.*
+
+---
+
+### 📬 Como falar comigo?
+- 💼 **LinkedIn:** [João Santos](https://www.linkedin.com/in/jo%C3%A3o-santos-48a643369/?isSelfProfile=true)
+- 📧 **E-mail:** joaosantospt1934@gmail.com
+
+---
+
+*"A melhor defesa é compreender perfeitamente o funcionamento do sistema."*
