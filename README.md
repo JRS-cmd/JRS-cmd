@@ -12,8 +12,6 @@ Proissional em transição de carreira focado em **Cibersegurança e Defesa Cibe
 ---
 
 ### 📁 Os Meus Projetos de Cibersegurança
-*(À medida que fores criando novos repositórios para os teus projetos, coloca os links diretos para eles aqui)*
-
 - 🌐 [Análise de Tráfego de Rede com Wireshark](TEU_LINK_AQUI) -> *Breve descrição do teu primeiro laboratório.*
 - 📊 [Gestão e Análise de Logs com SIEM](TEU_LINK_AQUI) -> *Breve descrição do teu projeto com Splunk.*
 
