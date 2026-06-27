@@ -1,4 +1,4 @@
-## 🛡️ Olá, eu sou o João!
+## 🛡️ Olá, eu sou o João Santos!
 
 Proissional em transição de carreira focado em **Cibersegurança e Defesa Cibernética (SOC)**. Atualmente, estou a desenvolver a minha base técnica através de laboratórios práticos e a preparar-me para as principais certificações do mercado.
 
